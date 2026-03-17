@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/LashminiAD/DSA_java/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/LashminiAD/DSA_java/tree/master/0013-roman-to-integer) |
 ## Array
 |  |
 | ------- |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/LashminiAD/DSA_java/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/LashminiAD/DSA_java/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/LashminiAD/DSA_java/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/LashminiAD/DSA_java/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/LashminiAD/DSA_java/tree/master/0242-valid-anagram) |
@@ -40,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/LashminiAD/DSA_java/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/LashminiAD/DSA_java/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/LashminiAD/DSA_java/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/LashminiAD/DSA_java/tree/master/0344-reverse-string) |
