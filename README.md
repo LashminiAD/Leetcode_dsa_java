@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/LashminiAD/DSA_java/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/LashminiAD/DSA_java/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0338-counting-bits](https://github.com/LashminiAD/DSA_java/tree/master/0338-counting-bits) |
 ## Greedy
 |  |
 | ------- |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/LashminiAD/DSA_java/tree/master/0231-power-of-two) |
+| [0338-counting-bits](https://github.com/LashminiAD/DSA_java/tree/master/0338-counting-bits) |
 ## Recursion
 |  |
 | ------- |
