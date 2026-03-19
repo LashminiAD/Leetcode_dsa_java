@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/LashminiAD/DSA_java/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/LashminiAD/DSA_java/tree/master/0049-group-anagrams) |
+| [0078-subsets](https://github.com/LashminiAD/DSA_java/tree/master/0078-subsets) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/LashminiAD/DSA_java/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/LashminiAD/DSA_java/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0204-count-primes](https://github.com/LashminiAD/DSA_java/tree/master/0204-count-primes) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/LashminiAD/DSA_java/tree/master/0078-subsets) |
 | [0231-power-of-two](https://github.com/LashminiAD/DSA_java/tree/master/0231-power-of-two) |
 | [0338-counting-bits](https://github.com/LashminiAD/DSA_java/tree/master/0338-counting-bits) |
 ## Recursion
@@ -87,4 +89,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0584-find-customer-referee](https://github.com/LashminiAD/DSA_java/tree/master/0584-find-customer-referee) |
 | [1757-recyclable-and-low-fat-products](https://github.com/LashminiAD/DSA_java/tree/master/1757-recyclable-and-low-fat-products) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/LashminiAD/DSA_java/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
