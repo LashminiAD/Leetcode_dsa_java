@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/LashminiAD/DSA_java/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/LashminiAD/DSA_java/tree/master/0013-roman-to-integer) |
+| [0204-count-primes](https://github.com/LashminiAD/DSA_java/tree/master/0204-count-primes) |
 | [0412-fizz-buzz](https://github.com/LashminiAD/DSA_java/tree/master/0412-fizz-buzz) |
 ## Array
 |  |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/LashminiAD/DSA_java/tree/master/0049-group-anagrams) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/LashminiAD/DSA_java/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/LashminiAD/DSA_java/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0204-count-primes](https://github.com/LashminiAD/DSA_java/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/LashminiAD/DSA_java/tree/master/0217-contains-duplicate) |
 ## Hash Table
 |  |
@@ -56,4 +58,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/LashminiAD/DSA_java/tree/master/0412-fizz-buzz) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/LashminiAD/DSA_java/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/LashminiAD/DSA_java/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
