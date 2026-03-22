@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/LashminiAD/DSA_java/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/LashminiAD/DSA_java/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/LashminiAD/DSA_java/tree/master/0049-group-anagrams) |
 | [0078-subsets](https://github.com/LashminiAD/DSA_java/tree/master/0078-subsets) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/LashminiAD/DSA_java/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/LashminiAD/DSA_java/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/LashminiAD/DSA_java/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/LashminiAD/DSA_java/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/LashminiAD/DSA_java/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/LashminiAD/DSA_java/tree/master/0344-reverse-string) |
@@ -97,4 +99,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/LashminiAD/DSA_java/tree/master/0078-subsets) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/LashminiAD/DSA_java/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
