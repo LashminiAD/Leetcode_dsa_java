@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/LashminiAD/DSA_java/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/LashminiAD/DSA_java/tree/master/0013-roman-to-integer) |
+| [0189-rotate-array](https://github.com/LashminiAD/DSA_java/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/LashminiAD/DSA_java/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/LashminiAD/DSA_java/tree/master/0231-power-of-two) |
 | [0367-valid-perfect-square](https://github.com/LashminiAD/DSA_java/tree/master/0367-valid-perfect-square) |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/LashminiAD/DSA_java/tree/master/0078-subsets) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/LashminiAD/DSA_java/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/LashminiAD/DSA_java/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0189-rotate-array](https://github.com/LashminiAD/DSA_java/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/LashminiAD/DSA_java/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/LashminiAD/DSA_java/tree/master/0217-contains-duplicate) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/LashminiAD/DSA_java/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -64,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/LashminiAD/DSA_java/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/LashminiAD/DSA_java/tree/master/0344-reverse-string) |
 ## Simulation
 |  |
