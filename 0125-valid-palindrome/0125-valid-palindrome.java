@@ -1,3 +1,4 @@
+//optimize - two-pointer 
 class Solution {
     public boolean isPalindrome(String s) {
         int left = 0;
@@ -16,5 +17,15 @@ class Solution {
             right--;
         }
         return true;
+    }
+}
+
+// or clean method (simple)
+
+class Solution {
+    public boolean isPalindrome(String s) {
+        String clean = s.replaceAll("[^a-zA-Z0-9]", "").toLowerCase();
+        String reversed = new StringBuilder(clean).reverse().toString();
+        return clean.equals(reversed);
     }
 }
