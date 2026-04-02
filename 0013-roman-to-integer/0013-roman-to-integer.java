@@ -10,11 +10,11 @@ class Solution {
         val['M']=1000;
         int sum = 0;
         for(int i = 0; i<s.length(); i++){
-            int current = val[s.charAt(i)]; //ii i
-            if(i<s.length()-1 && current < val[s.charAt(i+1)]){
+            int current = val[s.charAt(i)]; //XI //X -> 10
+            if(i<s.length()-1 && current < val[s.charAt(i+1)]){ //10 < 1
                 sum -= current;
             }else{
-                sum += current;
+                sum += current; //10 + 1//11
             }
         }
         return sum; 
