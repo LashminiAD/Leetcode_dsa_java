@@ -14,3 +14,16 @@ class Solution {
         return og == r;
     }
 }
+
+//or optimal sol by half of the number
+
+int r = 0;
+if(n <0 || n%10 == 0 && n!=0){
+    return false;
+}
+while(n > r){
+    int d = n % 10;
+    r = r * 10 + d;
+    n /= 10;
+}
+return n == r || n == r/10;
