@@ -1,62 +1,35 @@
-1572. Matrix Diagonal Sum
-Problem
+<h2><a href="https://leetcode.com/problems/matrix-diagonal-sum">1572. Matrix Diagonal Sum</a></h2><h3>Easy</h3><hr><p>Given a square matrix <code>mat</code>, return the sum of the matrix diagonals.</p>
 
-Given a square matrix mat, return the sum of the matrix diagonals.
+<p>Only include the sum of all the elements on the primary diagonal and all the elements on the secondary diagonal that are not part of the primary diagonal.</p>
 
-Include all elements from the primary diagonal
-Include all elements from the secondary diagonal
-Do not double count the middle element (if n is odd)
-🧠 Approach
-Traverse the matrix using a single loop
-Add:
-mat[i][i] → Primary diagonal
-mat[i][n - i - 1] → Secondary diagonal
-If n is odd:
-Subtract the middle element (mat[n / 2][n / 2])
-🚀 Solution
-class Solution {
-    public int diagonalSum(int[][] mat) {
-        int n = mat.length;
-        int sum = 0;
+<p>&nbsp;</p>
+<p><strong class="example">Example 1:</strong></p>
+<pre><strong>Input:</strong> mat = [[1,2,3],
+              [4,5,6],
+              [7,8,9]]
+<strong>Output:</strong> 25
+<strong>Explanation:</strong> Diagonals sum: 1 + 5 + 9 + 3 + 7 = 25
+Notice that element mat[1][1] = 5 is counted only once.
+</pre>
 
-        for(int i = 0; i < n; i++){
-            sum += mat[i][i];           // primary diagonal
-            sum += mat[i][n - i - 1];   // secondary diagonal
-        }
+<p><strong class="example">Example 2:</strong></p>
+<pre><strong>Input:</strong> mat = [[1,1,1,1],
+              [1,1,1,1],
+              [1,1,1,1],
+              [1,1,1,1]]
+<strong>Output:</strong> 8
+</pre>
 
-        // Remove duplicate center element
-        if(n % 2 == 1){
-            sum -= mat[n / 2][n / 2];
-        }
+<p><strong class="example">Example 3:</strong></p>
+<pre><strong>Input:</strong> mat = [[5]]
+<strong>Output:</strong> 5
+</pre>
 
-        return sum;
-    }
-}
-🔍 Example
-Input
-mat = [
- [1,2,3],
- [4,5,6],
- [7,8,9]
-]
-Output
-25
-Explanation
+<p>&nbsp;</p>
+<p><strong>Constraints:</strong></p>
 
-Primary diagonal → 1 + 5 + 9 = 15
-Secondary diagonal → 3 + 5 + 7 = 15
-Total = 30
-Middle element counted twice → subtract 5
-
-Final Answer = 25
-
-⏱️ Complexity
-Time Complexity: O(n)
-Space Complexity: O(1)
-🏷️ Tags
-Array
-Matrix
-🌟 Key Takeaways
-Use a single loop for both diagonals
-Handle the center element carefully
-Optimal solution with constant space
+<ul>
+	<li><code>n == mat.length == mat[i].length</code></li>
+	<li><code>1 &lt;= n &lt;= 100</code></li>
+	<li><code>1 &lt;= mat[i][j] &lt;= 100</code></li>
+</ul>
