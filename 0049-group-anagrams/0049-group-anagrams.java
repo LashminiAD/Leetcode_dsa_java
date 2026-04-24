@@ -5,10 +5,12 @@ class Solution {
             char [] arr = s.toCharArray();
             Arrays.sort(arr);
             String cs = new String(arr);
-
+//instead of containsKey we can use putIfAbsent
             if(!map.containsKey(cs)){
                 map.put(cs, new ArrayList<>()); //act []
             }
+            //or   map.putIfAbsent(cs, new ArrayLtgist<>());
+        
             map.get(cs).add(s); // act [cat]
         }
         return new ArrayList<>(map.values());
