@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/LashminiAD/DSA_java/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/LashminiAD/DSA_java/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1929-concatenation-of-array](https://github.com/LashminiAD/DSA_java/tree/master/1929-concatenation-of-array) |
+| [2942-find-words-containing-character](https://github.com/LashminiAD/Leetcode_dsa_java/tree/master/2942-find-words-containing-character) |
 ## Hash Table
 |  |
 | ------- |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/LashminiAD/DSA_java/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/LashminiAD/DSA_java/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/LashminiAD/DSA_java/tree/master/0412-fizz-buzz) |
+| [2942-find-words-containing-character](https://github.com/LashminiAD/Leetcode_dsa_java/tree/master/2942-find-words-containing-character) |
 ## Two Pointers
 |  |
 | ------- |
