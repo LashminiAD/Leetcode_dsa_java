@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/LashminiAD/Leetcode_dsa_java/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/LashminiAD/DSA_java/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/LashminiAD/DSA_java/tree/master/0014-longest-common-prefix) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/LashminiAD/Leetcode_dsa_java/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/LashminiAD/DSA_java/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/LashminiAD/DSA_java/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/LashminiAD/DSA_java/tree/master/0242-valid-anagram) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/LashminiAD/DSA_java/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/LashminiAD/DSA_java/tree/master/0027-remove-element) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/LashminiAD/Leetcode_dsa_java/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/LashminiAD/DSA_java/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/LashminiAD/DSA_java/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/LashminiAD/DSA_java/tree/master/0344-reverse-string) |
@@ -159,4 +161,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1672-richest-customer-wealth](https://github.com/LashminiAD/Leetcode_dsa_java/tree/master/1672-richest-customer-wealth) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/LashminiAD/Leetcode_dsa_java/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
