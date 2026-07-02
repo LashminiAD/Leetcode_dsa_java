@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/LashminiAD/DSA_java/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/LashminiAD/Leetcode_dsa_java/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/LashminiAD/Leetcode_dsa_java/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/LashminiAD/Leetcode_dsa_java/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/LashminiAD/DSA_java/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/LashminiAD/DSA_java/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/LashminiAD/DSA_java/tree/master/0231-power-of-two) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/LashminiAD/Leetcode_dsa_java/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/LashminiAD/DSA_java/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/LashminiAD/DSA_java/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0338-counting-bits](https://github.com/LashminiAD/DSA_java/tree/master/0338-counting-bits) |
@@ -186,4 +188,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/LashminiAD/Leetcode_dsa_java/tree/master/0020-valid-parentheses) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/LashminiAD/Leetcode_dsa_java/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
