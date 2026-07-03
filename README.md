@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/LashminiAD/DSA_java/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/LashminiAD/DSA_java/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/LashminiAD/DSA_java/tree/master/0258-add-digits) |
+| [0268-missing-number](https://github.com/LashminiAD/Leetcode_dsa_java/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/LashminiAD/DSA_java/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/LashminiAD/DSA_java/tree/master/0412-fizz-buzz) |
 | [1518-water-bottles](https://github.com/LashminiAD/Leetcode_dsa_java/tree/master/1518-water-bottles) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/LashminiAD/DSA_java/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/LashminiAD/DSA_java/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/LashminiAD/DSA_java/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/LashminiAD/Leetcode_dsa_java/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/LashminiAD/Leetcode_dsa_java/tree/master/0283-move-zeroes) |
 | [0905-sort-array-by-parity](https://github.com/LashminiAD/Leetcode_dsa_java/tree/master/0905-sort-array-by-parity) |
 | [1672-richest-customer-wealth](https://github.com/LashminiAD/Leetcode_dsa_java/tree/master/1672-richest-customer-wealth) |
@@ -57,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/LashminiAD/DSA_java/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/LashminiAD/DSA_java/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/LashminiAD/DSA_java/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/LashminiAD/Leetcode_dsa_java/tree/master/0268-missing-number) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/LashminiAD/Leetcode_dsa_java/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Dynamic Programming
 |  |
@@ -76,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/LashminiAD/DSA_java/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/LashminiAD/DSA_java/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/LashminiAD/DSA_java/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/LashminiAD/Leetcode_dsa_java/tree/master/0268-missing-number) |
 | [0905-sort-array-by-parity](https://github.com/LashminiAD/Leetcode_dsa_java/tree/master/0905-sort-array-by-parity) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/LashminiAD/DSA_java/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2974-minimum-number-game](https://github.com/LashminiAD/Leetcode_dsa_java/tree/master/2974-minimum-number-game) |
@@ -131,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/LashminiAD/Leetcode_dsa_java/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/LashminiAD/DSA_java/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/LashminiAD/Leetcode_dsa_java/tree/master/0069-sqrtx) |
+| [0268-missing-number](https://github.com/LashminiAD/Leetcode_dsa_java/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/LashminiAD/DSA_java/tree/master/0367-valid-perfect-square) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/LashminiAD/DSA_java/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Bit Manipulation
@@ -139,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/LashminiAD/DSA_java/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/LashminiAD/Leetcode_dsa_java/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/LashminiAD/DSA_java/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/LashminiAD/Leetcode_dsa_java/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/LashminiAD/DSA_java/tree/master/0338-counting-bits) |
 ## Recursion
 |  |
