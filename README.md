@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/LashminiAD/DSA_java/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/LashminiAD/DSA_java/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/LashminiAD/DSA_java/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/LashminiAD/Leetcode_dsa_java/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/LashminiAD/Leetcode_dsa_java/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/LashminiAD/Leetcode_dsa_java/tree/master/0283-move-zeroes) |
 | [0905-sort-array-by-parity](https://github.com/LashminiAD/Leetcode_dsa_java/tree/master/0905-sort-array-by-parity) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/LashminiAD/DSA_java/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/LashminiAD/Leetcode_dsa_java/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/LashminiAD/DSA_java/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/LashminiAD/Leetcode_dsa_java/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/LashminiAD/DSA_java/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/LashminiAD/Leetcode_dsa_java/tree/master/0268-missing-number) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/LashminiAD/Leetcode_dsa_java/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/LashminiAD/DSA_java/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/LashminiAD/Leetcode_dsa_java/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/LashminiAD/DSA_java/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/LashminiAD/Leetcode_dsa_java/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/LashminiAD/DSA_java/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/LashminiAD/Leetcode_dsa_java/tree/master/0268-missing-number) |
 | [0905-sort-array-by-parity](https://github.com/LashminiAD/Leetcode_dsa_java/tree/master/0905-sort-array-by-parity) |
@@ -215,4 +218,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/LashminiAD/Leetcode_dsa_java/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/LashminiAD/Leetcode_dsa_java/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
