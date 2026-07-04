@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/LashminiAD/Leetcode_dsa_java/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/LashminiAD/DSA_java/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/LashminiAD/DSA_java/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/LashminiAD/Leetcode_dsa_java/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/LashminiAD/Leetcode_dsa_java/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/LashminiAD/DSA_java/tree/master/0078-subsets) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/LashminiAD/DSA_java/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/LashminiAD/Leetcode_dsa_java/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/LashminiAD/Leetcode_dsa_java/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/LashminiAD/DSA_java/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/LashminiAD/DSA_java/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -213,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/LashminiAD/Leetcode_dsa_java/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/LashminiAD/Leetcode_dsa_java/tree/master/0169-majority-element) |
 ## Counting
 |  |
