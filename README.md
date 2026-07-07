@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/LashminiAD/Leetcode_dsa_java/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/LashminiAD/DSA_java/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/LashminiAD/DSA_java/tree/master/0412-fizz-buzz) |
+| [0908-smallest-range-i](https://github.com/LashminiAD/Leetcode_dsa_java/tree/master/0908-smallest-range-i) |
 | [1518-water-bottles](https://github.com/LashminiAD/Leetcode_dsa_java/tree/master/1518-water-bottles) |
 | [2769-find-the-maximum-achievable-number](https://github.com/LashminiAD/Leetcode_dsa_java/tree/master/2769-find-the-maximum-achievable-number) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/LashminiAD/Leetcode_dsa_java/tree/master/2894-divisible-and-non-divisible-sums-difference) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/LashminiAD/Leetcode_dsa_java/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/LashminiAD/Leetcode_dsa_java/tree/master/0283-move-zeroes) |
 | [0905-sort-array-by-parity](https://github.com/LashminiAD/Leetcode_dsa_java/tree/master/0905-sort-array-by-parity) |
+| [0908-smallest-range-i](https://github.com/LashminiAD/Leetcode_dsa_java/tree/master/0908-smallest-range-i) |
 | [1672-richest-customer-wealth](https://github.com/LashminiAD/Leetcode_dsa_java/tree/master/1672-richest-customer-wealth) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/LashminiAD/DSA_java/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/LashminiAD/DSA_java/tree/master/1838-frequency-of-the-most-frequent-element) |
