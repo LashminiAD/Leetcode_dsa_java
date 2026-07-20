@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/LashminiAD/Leetcode_dsa_java/tree/master/0283-move-zeroes) |
 | [0905-sort-array-by-parity](https://github.com/LashminiAD/Leetcode_dsa_java/tree/master/0905-sort-array-by-parity) |
 | [0908-smallest-range-i](https://github.com/LashminiAD/Leetcode_dsa_java/tree/master/0908-smallest-range-i) |
+| [1260-shift-2d-grid](https://github.com/LashminiAD/Leetcode_dsa_java/tree/master/1260-shift-2d-grid) |
 | [1672-richest-customer-wealth](https://github.com/LashminiAD/Leetcode_dsa_java/tree/master/1672-richest-customer-wealth) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/LashminiAD/DSA_java/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/LashminiAD/DSA_java/tree/master/1838-frequency-of-the-most-frequent-element) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/LashminiAD/DSA_java/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/LashminiAD/DSA_java/tree/master/0412-fizz-buzz) |
+| [1260-shift-2d-grid](https://github.com/LashminiAD/Leetcode_dsa_java/tree/master/1260-shift-2d-grid) |
 | [1518-water-bottles](https://github.com/LashminiAD/Leetcode_dsa_java/tree/master/1518-water-bottles) |
 | [1929-concatenation-of-array](https://github.com/LashminiAD/DSA_java/tree/master/1929-concatenation-of-array) |
 | [2974-minimum-number-game](https://github.com/LashminiAD/Leetcode_dsa_java/tree/master/2974-minimum-number-game) |
@@ -208,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [1260-shift-2d-grid](https://github.com/LashminiAD/Leetcode_dsa_java/tree/master/1260-shift-2d-grid) |
 | [1672-richest-customer-wealth](https://github.com/LashminiAD/Leetcode_dsa_java/tree/master/1672-richest-customer-wealth) |
 ## String Matching
 |  |
