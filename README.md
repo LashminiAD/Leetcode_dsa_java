@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1838-frequency-of-the-most-frequent-element](https://github.com/LashminiAD/DSA_java/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1929-concatenation-of-array](https://github.com/LashminiAD/DSA_java/tree/master/1929-concatenation-of-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/LashminiAD/Leetcode_dsa_java/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2798-number-of-employees-who-met-the-target](https://github.com/LashminiAD/Leetcode_dsa_java/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2942-find-words-containing-character](https://github.com/LashminiAD/Leetcode_dsa_java/tree/master/2942-find-words-containing-character) |
 | [2974-minimum-number-game](https://github.com/LashminiAD/Leetcode_dsa_java/tree/master/2974-minimum-number-game) |
 ## Hash Table
