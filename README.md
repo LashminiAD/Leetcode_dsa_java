@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1832-check-if-the-sentence-is-pangram](https://github.com/LashminiAD/Leetcode_dsa_java/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/LashminiAD/Leetcode_dsa_java/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2942-find-words-containing-character](https://github.com/LashminiAD/Leetcode_dsa_java/tree/master/2942-find-words-containing-character) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/LashminiAD/Leetcode_dsa_java/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/LashminiAD/DSA_java/tree/master/0204-count-primes) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/LashminiAD/Leetcode_dsa_java/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Number Theory
 |  |
 | ------- |
