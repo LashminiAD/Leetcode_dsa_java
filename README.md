@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2769-find-the-maximum-achievable-number](https://github.com/LashminiAD/Leetcode_dsa_java/tree/master/2769-find-the-maximum-achievable-number) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/LashminiAD/Leetcode_dsa_java/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3100-water-bottles-ii](https://github.com/LashminiAD/Leetcode_dsa_java/tree/master/3100-water-bottles-ii) |
+| [3232-find-if-digit-game-can-be-won](https://github.com/LashminiAD/Leetcode_dsa_java/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/LashminiAD/Leetcode_dsa_java/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/LashminiAD/Leetcode_dsa_java/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Array
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2798-number-of-employees-who-met-the-target](https://github.com/LashminiAD/Leetcode_dsa_java/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2942-find-words-containing-character](https://github.com/LashminiAD/Leetcode_dsa_java/tree/master/2942-find-words-containing-character) |
 | [2974-minimum-number-game](https://github.com/LashminiAD/Leetcode_dsa_java/tree/master/2974-minimum-number-game) |
+| [3232-find-if-digit-game-can-be-won](https://github.com/LashminiAD/Leetcode_dsa_java/tree/master/3232-find-if-digit-game-can-be-won) |
 ## Hash Table
 |  |
 | ------- |
