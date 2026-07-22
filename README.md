@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/LashminiAD/Leetcode_dsa_java/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/LashminiAD/Leetcode_dsa_java/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/LashminiAD/Leetcode_dsa_java/tree/master/0070-climbing-stairs) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/LashminiAD/Leetcode_dsa_java/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/LashminiAD/DSA_java/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/LashminiAD/DSA_java/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/LashminiAD/DSA_java/tree/master/0231-power-of-two) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/LashminiAD/DSA_java/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/LashminiAD/DSA_java/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0136-single-number](https://github.com/LashminiAD/Leetcode_dsa_java/tree/master/0136-single-number) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/LashminiAD/Leetcode_dsa_java/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/LashminiAD/Leetcode_dsa_java/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/LashminiAD/Leetcode_dsa_java/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/LashminiAD/DSA_java/tree/master/0189-rotate-array) |
@@ -236,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/LashminiAD/Leetcode_dsa_java/tree/master/0020-valid-parentheses) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/LashminiAD/Leetcode_dsa_java/tree/master/0150-evaluate-reverse-polish-notation) |
 ## Memoization
 |  |
 | ------- |
