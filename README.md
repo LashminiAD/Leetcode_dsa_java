@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/LashminiAD/DSA_java/tree/master/0412-fizz-buzz) |
 | [0908-smallest-range-i](https://github.com/LashminiAD/Leetcode_dsa_java/tree/master/0908-smallest-range-i) |
 | [1518-water-bottles](https://github.com/LashminiAD/Leetcode_dsa_java/tree/master/1518-water-bottles) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/LashminiAD/Leetcode_dsa_java/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/LashminiAD/Leetcode_dsa_java/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2769-find-the-maximum-achievable-number](https://github.com/LashminiAD/Leetcode_dsa_java/tree/master/2769-find-the-maximum-achievable-number) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/LashminiAD/Leetcode_dsa_java/tree/master/2894-divisible-and-non-divisible-sums-difference) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1550-three-consecutive-odds](https://github.com/LashminiAD/Leetcode_dsa_java/tree/master/1550-three-consecutive-odds) |
 | [1672-richest-customer-wealth](https://github.com/LashminiAD/Leetcode_dsa_java/tree/master/1672-richest-customer-wealth) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/LashminiAD/DSA_java/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/LashminiAD/Leetcode_dsa_java/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/LashminiAD/DSA_java/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1929-concatenation-of-array](https://github.com/LashminiAD/DSA_java/tree/master/1929-concatenation-of-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/LashminiAD/Leetcode_dsa_java/tree/master/2114-maximum-number-of-words-found-in-sentences) |
