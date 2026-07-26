@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/LashminiAD/Leetcode_dsa_java/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3100-water-bottles-ii](https://github.com/LashminiAD/Leetcode_dsa_java/tree/master/3100-water-bottles-ii) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/LashminiAD/Leetcode_dsa_java/tree/master/3232-find-if-digit-game-can-be-won) |
+| [3536-maximum-product-of-two-digits](https://github.com/LashminiAD/Leetcode_dsa_java/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/LashminiAD/Leetcode_dsa_java/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/LashminiAD/Leetcode_dsa_java/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Array
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/LashminiAD/Leetcode_dsa_java/tree/master/0977-squares-of-a-sorted-array) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/LashminiAD/DSA_java/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2974-minimum-number-game](https://github.com/LashminiAD/Leetcode_dsa_java/tree/master/2974-minimum-number-game) |
+| [3536-maximum-product-of-two-digits](https://github.com/LashminiAD/Leetcode_dsa_java/tree/master/3536-maximum-product-of-two-digits) |
 ## String
 |  |
 | ------- |
