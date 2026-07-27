@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/LashminiAD/DSA_java/tree/master/0412-fizz-buzz) |
 | [0628-maximum-product-of-three-numbers](https://github.com/LashminiAD/Leetcode_dsa_java/tree/master/0628-maximum-product-of-three-numbers) |
 | [0908-smallest-range-i](https://github.com/LashminiAD/Leetcode_dsa_java/tree/master/0908-smallest-range-i) |
+| [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/LashminiAD/Leetcode_dsa_java/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1518-water-bottles](https://github.com/LashminiAD/Leetcode_dsa_java/tree/master/1518-water-bottles) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/LashminiAD/Leetcode_dsa_java/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/LashminiAD/Leetcode_dsa_java/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
