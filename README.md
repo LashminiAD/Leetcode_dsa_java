@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/LashminiAD/Leetcode_dsa_java/tree/master/0628-maximum-product-of-three-numbers) |
 | [0908-smallest-range-i](https://github.com/LashminiAD/Leetcode_dsa_java/tree/master/0908-smallest-range-i) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/LashminiAD/Leetcode_dsa_java/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1486-xor-operation-in-an-array](https://github.com/LashminiAD/Leetcode_dsa_java/tree/master/1486-xor-operation-in-an-array) |
 | [1518-water-bottles](https://github.com/LashminiAD/Leetcode_dsa_java/tree/master/1518-water-bottles) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/LashminiAD/Leetcode_dsa_java/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/LashminiAD/Leetcode_dsa_java/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/LashminiAD/DSA_java/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/LashminiAD/Leetcode_dsa_java/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/LashminiAD/DSA_java/tree/master/0338-counting-bits) |
+| [1486-xor-operation-in-an-array](https://github.com/LashminiAD/Leetcode_dsa_java/tree/master/1486-xor-operation-in-an-array) |
 ## Recursion
 |  |
 | ------- |
