@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1518-water-bottles](https://github.com/LashminiAD/Leetcode_dsa_java/tree/master/1518-water-bottles) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/LashminiAD/Leetcode_dsa_java/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/LashminiAD/Leetcode_dsa_java/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [2652-sum-multiples](https://github.com/LashminiAD/Leetcode_dsa_java/tree/master/2652-sum-multiples) |
 | [2769-find-the-maximum-achievable-number](https://github.com/LashminiAD/Leetcode_dsa_java/tree/master/2769-find-the-maximum-achievable-number) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/LashminiAD/Leetcode_dsa_java/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3100-water-bottles-ii](https://github.com/LashminiAD/Leetcode_dsa_java/tree/master/3100-water-bottles-ii) |
