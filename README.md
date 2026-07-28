@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/LashminiAD/Leetcode_dsa_java/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/LashminiAD/DSA_java/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2974-minimum-number-game](https://github.com/LashminiAD/Leetcode_dsa_java/tree/master/2974-minimum-number-game) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/LashminiAD/Leetcode_dsa_java/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/LashminiAD/Leetcode_dsa_java/tree/master/3536-maximum-product-of-two-digits) |
 ## String
 |  |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2942-find-words-containing-character](https://github.com/LashminiAD/Leetcode_dsa_java/tree/master/2942-find-words-containing-character) |
 | [3019-number-of-changing-keys](https://github.com/LashminiAD/Leetcode_dsa_java/tree/master/3019-number-of-changing-keys) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/LashminiAD/Leetcode_dsa_java/tree/master/3499-maximize-active-section-with-trade-i) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/LashminiAD/Leetcode_dsa_java/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -273,4 +275,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/LashminiAD/Leetcode_dsa_java/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/LashminiAD/Leetcode_dsa_java/tree/master/0229-majority-element-ii) |
+## Counting Sort
+|  |
+| ------- |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/LashminiAD/Leetcode_dsa_java/tree/master/3517-smallest-palindromic-rearrangement-i) |
 <!---LeetCode Topics End-->
