@@ -319,4 +319,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0700-search-in-a-binary-search-tree](https://github.com/LashminiAD/Leetcode_dsa_java/tree/master/0700-search-in-a-binary-search-tree) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/LashminiAD/Leetcode_dsa_java/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
